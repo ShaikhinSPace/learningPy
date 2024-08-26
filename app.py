@@ -1,4 +1,4 @@
-def getmilk():
-    print('open door')
-    
-getmilk()
+import Lesson
+import math
+
+Lesson.quote()
