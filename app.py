@@ -1,5 +1,4 @@
-text = 'hi my name is %s, i am a %s, and my age is %s'
-name = 'Sameer'
-prof = 'Flutter Developer'
-age =14 
-print(text %(name, prof, age))
+for i in range(1,11):
+    for x in range(1,11):
+        print(f'{i}x{x} = {i*x}')
+    print('------------------------')
